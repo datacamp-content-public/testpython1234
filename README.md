@@ -9,7 +9,7 @@ please speak with your Curriculum Lead.*
 
 ## Course development resources
 
-* Course admin page: https://www.datacamp.com/teach/
+* Course admin page: https://www.datacamp.com/teach
 * Authoring documentation: https://authoring.datacamp.com/
 
 ## Step 1: Brainstorming
