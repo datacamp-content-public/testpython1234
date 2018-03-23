@@ -29,7 +29,7 @@ please speak with your Curriculum Lead.*
 ### 7. What datasets will you use?
 
 
-## Step 2: Who Is This Course for?
+## Step 2: Who Is This Course for really?
 
 Link to [learner personas](https://authoring.datacamp.com/courses/design/personas.html)
 
